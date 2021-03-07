@@ -1,0 +1,27 @@
+{
+  "name": "next-web3-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanRaj1608/nextjs-web3-template.git"
+  },
+  "keywords": [
+    "nextjs-web3-starter"
+  ],
+  "author": "Aman Raj <archanaamanraj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmanRaj1608/nextjs-web3-template/issues"
+  },
+  "homepage": "https://github.com/AmanRaj1608/nextjs-web3-template#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "solc": "^0.8.2",
+    "web3": "^1.3.4"
+  }
+}

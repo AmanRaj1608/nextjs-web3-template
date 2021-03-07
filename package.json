@@ -1,0 +1,24 @@
+{
+  "name": "nextjs-web3-starter",
+  "version": "1.0.0",
+  "author": "Aman Raj <archanaamanraj@gmail.com>",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "homepage": "https://github.com/AmanRaj1608/nextjs-web3-template",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "web3": "^1.3.4",
+    "ethers": "^5.0.31",
+    "web3modal": "^1.9.3",
+    "react-blockies": "^1.4.1",
+    "@walletconnect/web3-provider": "^1.3.6"
+  }
+}
